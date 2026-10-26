@@ -1,5 +1,4 @@
-# ceren777
-Personal GitHub profile | Software Developer | Backend Development &amp; AI Integrations
+
 # Hi, I'm Ceren Çokgezer 👋
 
 **Software Developer | Backend Development & AI Integrations**
